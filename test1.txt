@@ -1,10 +1,1 @@
- Volume in drive C is OS
- Volume Serial Number is 6497-227A
-
- Directory of C:\Users\Rajesh\Desktop\MyProject
-
-16-10-2021  17:24    <DIR>          .
-16-10-2021  17:24    <DIR>          ..
-16-10-2021  17:24                 0 test1.txt
-               1 File(s)              0 bytes
-               2 Dir(s)  379,942,797,312 bytes free
+My first Git project
